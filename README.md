@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi, I'm Risma<br>🩰 I’m interested in Front End Development<br>🌷 I’m looking to collaborate on Front End Projects<br>🌸 I'm currently learning ReactJS<br>
+👋🏻 Hi, I'm Risma<br>🩰 I’m interested in Front End Development<br>🌷 I’m looking to collaborate on Front End Projects<br>🌸 I'm currently learning Java<br>
 
 
 # 💻 Tech Stack:
